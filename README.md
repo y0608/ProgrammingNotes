@@ -1,2 +1,4 @@
 # ProgrammingNotes
-Notes for OS class
+Записки за ОС
+
+Изплозвам [Obsidian](https://obsidian.md/)
