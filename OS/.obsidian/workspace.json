@@ -8,73 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3d6820d11429af7",
+            "id": "dd497d47417b2128",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/source code to process.md"
-              }
-            }
-          },
-          {
-            "id": "57e5f304e318c505",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
-          },
-          {
-            "id": "1af0184a8dcbf96f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
-            "id": "65117e8351ad7731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Операционна система.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51d5e042641e704f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Процесор.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd497d47417b2128",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08.02.2023.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-03-16 17.22.55.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08.02.2023.md",
+                "file": "Excalidraw/Drawing 2023-03-16 17.22.55.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08.02.2023.md",
+                "file": "Excalidraw/Drawing 2023-03-16 17.22.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +114,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -181,16 +124,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08.02.2023.md"
+                "file": "Excalidraw/Drawing 2023-03-16 17.22.55.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,10 +148,14 @@
   },
   "active": "dd497d47417b2128",
   "lastOpenFiles": [
-    "Процесор.md",
     "08.02.2023.md",
+    "Excalidraw/Drawing 2023-03-16 17.22.55.excalidraw.md",
+    "Excalidraw/mount.excalidraw.md",
+    "Процесор.md",
     "Операционна система.md",
+    "Excalidraw/Drawing 2023-03-16 17.10.50.excalidraw.md",
     "Excalidraw/source code to process.md",
+    "Excalidraw/BlockDevice.excalidraw.md",
     "Untitled/Drawing 2022-10-18 16.22.29.excalidraw.svg",
     "Untitled Diagram.svg",
     "Untitled/source code.md",
