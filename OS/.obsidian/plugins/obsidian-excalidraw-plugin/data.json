@@ -51,7 +51,7 @@
   "embedType": "excalidraw",
   "embedWikiLink": true,
   "syncExcalidraw": false,
-  "experimentalFileType": false,
+  "experimentalFileType": true,
   "experimentalFileTag": "✏️",
   "experimentalLivePreview": true,
   "experimentalEnableFourthFont": false,

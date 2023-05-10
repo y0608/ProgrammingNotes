@@ -1,5 +1,11 @@
 {
   "promptDelete": true,
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "bg"
+  ],
+  "spellcheck": true
 }
