@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "12fb4ffdbb21ca68",
+        "id": "c15bcc89baee32ef",
         "type": "tabs",
         "children": [
           {
-            "id": "dd497d47417b2128",
+            "id": "e3dc8a5ed5cc47d8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-16 17.22.55.excalidraw.md"
+                "file": "08.02.2023.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -62,6 +64,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "cfa67eb8e38bb249",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -84,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-16 17.22.55.excalidraw.md",
+                "file": "08.02.2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-16 17.22.55.excalidraw.md",
+                "file": "08.02.2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-03-16 17.22.55.excalidraw.md"
+                "file": "08.02.2023.md"
               }
             }
           }
@@ -133,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,16 +156,18 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "dd497d47417b2128",
+  "active": "e3dc8a5ed5cc47d8",
   "lastOpenFiles": [
+    "Excalidraw/discs.excalidraw.md",
     "08.02.2023.md",
-    "Excalidraw/Drawing 2023-03-16 17.22.55.excalidraw.md",
+    "Block Device.md",
     "Excalidraw/mount.excalidraw.md",
-    "Процесор.md",
-    "Операционна система.md",
-    "Excalidraw/Drawing 2023-03-16 17.10.50.excalidraw.md",
     "Excalidraw/source code to process.md",
     "Excalidraw/BlockDevice.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-16 17.22.55.excalidraw.md",
+    "Операционна система.md",
+    "Процесор.md",
+    "Excalidraw/Drawing 2023-03-16 17.10.50.excalidraw.md",
     "Untitled/Drawing 2022-10-18 16.22.29.excalidraw.svg",
     "Untitled Diagram.svg",
     "Untitled/source code.md",
