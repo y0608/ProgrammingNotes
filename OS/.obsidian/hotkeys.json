@@ -1,1 +1,11 @@
-{}
+{
+  "table-editor-obsidian:move-row-down": [],
+  "table-editor-obsidian:move-row-up": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ]
+}
