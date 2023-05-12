@@ -10,7 +10,7 @@
 
 За визуализиране на различни диаграми използвам Excalidraw plugin-а.
 
-- [Obsidian tutorial](https://www.youtube.com/watch?v=QgbLb6QCK88&ab_channel=LinkingYourThinking)
+- [Obsidian tutorial]([https://www.youtube.com/watch?v=QgbLb6QCK88&ab_channel=LinkingYourThinking](https://www.youtube.com/watch?v=jAPn6yqrDxQ&ab_channel=JohnMavrick))
     - [Excalidraw tutorial](https://www.youtube.com/watch?v=UxJLLYtgDKE&list=PL6mqgtMZ4NP2jb4K3q2xqlaZowKntGu7k&ab_channel=Zsolt%27sVisualPersonalKnowledgeManagement)
 
 ## Допринеси
