@@ -7,5 +7,7 @@
     "en-US",
     "bg"
   ],
-  "spellcheck": true
+  "spellcheck": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false
 }

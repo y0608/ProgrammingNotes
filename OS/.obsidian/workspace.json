@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c0eed0c0dc7a707",
+            "id": "53ecd2a731704546",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,6 +147,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -156,14 +157,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c0eed0c0dc7a707",
+  "active": "53ecd2a731704546",
   "lastOpenFiles": [
-    "Excalidraw/15.02.2023 - Теория 2023-05-11 23.21.59.excalidraw.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.37.42.excalidraw.md",
     "15.02.2023 - Теория.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.38.47.excalidraw.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.21.59.excalidraw.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.10.36.excalidraw.md",
+    "Excalidraw/BlockDevice.excalidraw.md",
+    "Excalidraw/discs.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-10 22.34.12.excalidraw.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.21.46.excalidraw.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 10.37.55.excalidraw.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 10.21.43.excalidraw.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 10.06.10.excalidraw.md",
+    "08.02.2023 - Теория.md",
     "10.02.2023 - Практика.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-11 23.21.59.excalidraw.md",
     "Операционна система.md",
     "Excalidraw/15.02.2023 - Теория 2023-05-11 23.15.41.excalidraw.md",
-    "08.02.2023 - Теория.md",
     "Excalidraw/source code to process.md",
     "Процесор.md",
     "08.02.2023 - Теория 2023-05-10 22.37.13.excalidraw.md",
@@ -171,19 +183,10 @@
     "Excalidraw/08.02.2023 - Теория 2023-05-10 22.37.13.excalidraw.md",
     "Excalidraw/Drawing 2023-05-10 22.30.15.excalidraw.md",
     "Excalidraw/Drawing 2023-05-10 22.30.04.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-10 22.34.12.excalidraw.md",
     "Excalidraw/mount.excalidraw.md",
     "Block Device.md",
-    "Excalidraw/discs.excalidraw.md",
-    "Excalidraw/BlockDevice.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-16 17.22.55.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-16 17.10.50.excalidraw.md",
     "Untitled/Drawing 2022-10-18 16.22.29.excalidraw.svg",
     "Untitled Diagram.svg",
-    "Untitled/source code.md",
-    "Operating System/Untitled mindmap.md",
-    "2022-10-18.md",
-    "Operating System/Untitled Diagram.svg",
-    "Source code.md"
+    "Operating System/Untitled Diagram.svg"
   ]
 }
