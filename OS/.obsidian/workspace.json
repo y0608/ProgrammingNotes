@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87f13d24eb2d7253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15.03.2023 - Теория.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15.02.2023 - Теория.md",
+                "file": "15.03.2023 - Теория.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15.02.2023 - Теория.md",
+                "file": "15.03.2023 - Теория.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15.02.2023 - Теория.md"
+                "file": "15.03.2023 - Теория.md"
               }
             }
           }
@@ -157,22 +170,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3550090ac4218c4",
+  "active": "87f13d24eb2d7253",
   "lastOpenFiles": [
+    "22.02.2023 - Теория.md",
+    "15.03.2023 - Теория.md",
+    "15.02.2023 - Теория.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.10.36.excalidraw.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.10.36.excalidraw.png",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.38.47.excalidraw.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.38.47.excalidraw.png",
     "Excalidraw/15.02.2023 - Теория 2023-05-12 10.37.55.excalidraw.md",
     "Excalidraw/15.02.2023 - Теория 2023-05-12 10.37.55.excalidraw.png",
-    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.10.36.excalidraw.md",
     "Excalidraw/15.02.2023 - Теория 2023-05-12 11.21.59.excalidraw.md",
     "Excalidraw/15.02.2023 - Теория 2023-05-12 11.37.42.excalidraw.md",
     "Excalidraw/15.02.2023 - Теория 2023-05-12 11.37.42.excalidraw.png",
-    "15.02.2023 - Теория.md",
     "Excalidraw/15.02.2023 - Теория 2023-05-12 11.21.59.excalidraw.png",
     "10.02.2023 - Практика.md",
     "08.02.2023 - Теория.md",
     "Excalidraw/15.02.2023 - Теория 2023-05-12 10.21.43.excalidraw.md",
     "Excalidraw/source code to process.md",
     "Excalidraw/BlockDevice.excalidraw.md",
-    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.38.47.excalidraw.md",
     "Excalidraw/Drawing 2023-05-10 22.34.12.excalidraw.md",
     "Excalidraw/discs.excalidraw.md",
     "Excalidraw/15.02.2023 - Теория 2023-05-12 11.21.46.excalidraw.md",
@@ -186,7 +203,6 @@
     "Excalidraw/08.02.2023 - Теория 2023-05-10 22.37.13.excalidraw.md",
     "Excalidraw/Drawing 2023-05-10 22.30.15.excalidraw.md",
     "Excalidraw/Drawing 2023-05-10 22.30.04.excalidraw.md",
-    "Excalidraw/mount.excalidraw.md",
     "Untitled/Drawing 2022-10-18 16.22.29.excalidraw.svg",
     "Untitled Diagram.svg",
     "Operating System/Untitled Diagram.svg"
