@@ -17,7 +17,7 @@
    sudo snap install obsidian --classic
    ``` 
 
-## Допринес
+## Допринеси
 Който иска да допринесе към записките може да направи [pull request](https://www.howtogeek.com/devops/what-are-git-pull-requests-and-how-do-you-use-them/) или просто да отвори нов "Issue"
 
 ## В бъдеще
