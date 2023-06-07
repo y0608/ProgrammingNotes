@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2bbe23b9a3bb94b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -170,7 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f13d24eb2d7253",
+  "active": "c2bbe23b9a3bb94b",
   "lastOpenFiles": [
     "22.02.2023 - Теория.md",
     "15.03.2023 - Теория.md",
