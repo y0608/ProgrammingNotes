@@ -3,10 +3,7 @@
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
-  "spellcheckLanguages": [
-    "en-US",
-    "bg"
-  ],
+  "spellcheckLanguages": null,
   "spellcheck": true,
   "readableLineLength": false,
   "strictLineBreaks": false

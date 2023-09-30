@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "df1441d930233207",
+    "type": "split",
+    "children": [
+      {
+        "id": "65520c35aee88972",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fb02d73de4b718c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023.02.22 ~ Теория.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "276343e45d425bac",
+    "type": "split",
+    "children": [
+      {
+        "id": "1912f7e1e923d69c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee8f4ab23be73869",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fb93e44136b7a95",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "308bd573fd8cd87b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfa67eb8e38bb249",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d951f76201a6365d",
+    "type": "split",
+    "children": [
+      {
+        "id": "26f8bc764b569ace",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16e4380bcfbd15f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023.02.22 ~ Теория.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8627de0706906008",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023.02.22 ~ Теория.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "baf4e023f97eb7b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "5acbe593f68f5b7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023.02.22 ~ Теория.md"
+              }
+            }
+          },
+          {
+            "id": "02c12035b980eca9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2fb02d73de4b718c",
+  "lastOpenFiles": [
+    "2023.02.23 ! Практика.md",
+    "2023.02.17 - Практика.md",
+    "2023.02.15 - Теория.md",
+    "2023.02.22 ~ Теория.md",
+    "2023.02.10 - Практика.md",
+    "2023.02.08 - Теория.md",
+    "2023.05.10 ! Теория.md",
+    "2023.05.03 ! Теория.md",
+    "2023.04.21 ! Практика.md",
+    "2023.04.05 ~ Теория.md",
+    "2023.04.19 ! Теория.md",
+    "2023.03.22 ! Теория.md",
+    "2023.03.01 ! Теория.md",
+    "2023.03.15 ~ Теория.md",
+    "22.02.2023 - Теория.md",
+    "15.03.2023 - Теория.md",
+    "15.02.2023 - Теория.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.10.36.excalidraw.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.10.36.excalidraw.png",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.38.47.excalidraw.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.38.47.excalidraw.png",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 10.37.55.excalidraw.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 10.37.55.excalidraw.png",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.21.59.excalidraw.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.37.42.excalidraw.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.37.42.excalidraw.png",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 11.21.59.excalidraw.png",
+    "10.02.2023 - Практика.md",
+    "08.02.2023 - Теория.md",
+    "Excalidraw/15.02.2023 - Теория 2023-05-12 10.21.43.excalidraw.md",
+    "Excalidraw/source code to process.md",
+    "Untitled/Drawing 2022-10-18 16.22.29.excalidraw.svg",
+    "Untitled Diagram.svg",
+    "Operating System/Untitled Diagram.svg"
+  ]
+}
